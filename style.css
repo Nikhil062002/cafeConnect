@@ -1,0 +1,10 @@
+.cafe-card {
+  opacity: 0;
+  transform: translateY(50px);
+  transition: all 0.5s ease-in-out;
+}
+
+.cafe-card.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
