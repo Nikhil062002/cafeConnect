@@ -23,13 +23,12 @@ Intersection Observer API	Animate cafe cards as they enter view
 Overpass API (OpenStreetMap)	Fetch real-world cafes near the user
 
 📁 Project Structure
-bash
-Copy
-Edit
+
 CafeConnect/
-├── index.html       # Main structure
-├── style.css        # Responsive design and animations
-└── script.js        # API calls, logic, and DOM interaction
+- ├── index.html       # Main structure
+- ├── style.css        # Responsive design and animations
+- └── script.js        # API calls, logic, and DOM interaction
+  
 🚀 How to Run
 Clone the repository
 
